@@ -1,0 +1,14 @@
+# Exact versions this project was tested with (Python 3.12). Use if the flexible requirements.txt gives you trouble:
+#   pip install -r requirements-tested.txt
+matplotlib==3.11.2
+networkx==3.7
+nibabel==5.5.0
+nilearn==0.14.1
+numpy==2.5.4
+pandas==3.0.6
+pytest==9.2.0
+PyYAML==6.0.3
+scikit-learn==1.9.1
+scipy==1.18.1
+seaborn==0.13.2
+statsmodels==0.15.0

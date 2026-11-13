@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Dynamic Brain Connectivity Analysis in Alzheimer's Disease Using Resting-State fMRI (analysis toolkit)"
+type: software
+version: 0.1.0
+authors:
+  - family-names: "Author"
+    given-names: "Project"
+license: MIT
+abstract: "Reproducible Python toolkit for static/dynamic functional connectivity, graph analysis, statistics and exploratory ML. Ships with a clearly-labelled synthetic mode; no real participant data are included."
